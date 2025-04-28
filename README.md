@@ -14,6 +14,6 @@ Devido ao tempo necessário para a emissão dos certificados após a conclusão 
 
 
 
-### FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIAL (Certificados)
+### FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIAL (Certificado)
 ![Captura de tela 2025-04-28 081723](https://github.com/user-attachments/assets/5837529e-08d5-4182-96cb-e2ae6d37a205)
 
