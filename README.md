@@ -24,3 +24,6 @@
 | Inteligência Artificial| Senai | 2025 |
 
 ---
+
+
+</div>
