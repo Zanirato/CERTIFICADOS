@@ -10,20 +10,17 @@
 
 ### ✨ Certificados Concluídos
 
-| Curso / Certificação | Instituição | Ano | Link / Badge |
-|----------------------|-------------|------|----------------|
-| Economia Circular    | Senai | 2024 | [Badge](#) |
-| Excel Básico         | Senai  | 2023 | [Badge](#) |
-| Lógica de Programação| Senai  | 2023 | [Badge](#) |
-| Segurança Cibernética| Senai| 2024 | [Badge](#) |
-| LGPD                 | Portal LGPD | 2023 | [Badge](#) |
-| Power BI             | BI Experts  | 2024 | [Badge](#) |
-| Programação Orientada a Objetos | TechLab | 2024 | [Badge](#) |
+| Curso / Certificação | Instituição | Ano |
+|----------------------|-------------|------|
+| Economia Circular    | Senai | 2024 |
+| Excel Básico         | Senai | 2024 |
+| Lógica de Programação| Senai | 2024 | 
+| Segurança Cibernética| Senai | 2024 |
+| LGPD                 | Senai | 2024 | 
+| Power BI             | Senai | 2024 | 
+| Programação Orientada a Objetos | Bradesco | 2025 | 
+| Web 3.0              | Senai | 2025 | 
+| ES                   | Senai | 2025 | 
+| Inteligência Artificial| Senai | 2025 |
 
 ---
-
-### 📌 Como Adicionar Mais Certificados
-
-Você pode incluir badges visuais personalizados usando serviços como [Shields.io](https://shields.io) — por exemplo:
-```markdown
-![Economia Circular](https://img.shields.io/badge/Economia_Circular-Concluído-brightgreen.svg)
