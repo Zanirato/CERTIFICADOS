@@ -4,11 +4,6 @@
 
 <div align="center">
 
-[![Credly Badges](https://img.shields.io/badge/Badge-Certificados-blue?style=for-the-badge)](#)
-
-</div>
-
-### ✨ Certificados Concluídos
 
 | Curso / Certificação | Instituição | Ano |
 |----------------------|-------------|------|
