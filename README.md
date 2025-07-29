@@ -1,6 +1,6 @@
 # CERTIFICADOS
 
-## 🏅 Certificados & Conquistas
+## 🏅 Certificados
 
 <div align="center">
 
@@ -12,10 +12,10 @@
 
 | Curso / Certificação | Instituição | Ano | Link / Badge |
 |----------------------|-------------|------|----------------|
-| Economia Circular    | XYZ Academy | 2024 | [Badge](#) |
-| Excel Básico         | ABC Cursos  | 2023 | [Badge](#) |
-| Lógica de Programação| Plataforma  | 2023 | [Badge](#) |
-| Segurança Cibernética| SegurançaPro| 2024 | [Badge](#) |
+| Economia Circular    | Senai | 2024 | [Badge](#) |
+| Excel Básico         | Senai  | 2023 | [Badge](#) |
+| Lógica de Programação| Senai  | 2023 | [Badge](#) |
+| Segurança Cibernética| Senai| 2024 | [Badge](#) |
 | LGPD                 | Portal LGPD | 2023 | [Badge](#) |
 | Power BI             | BI Experts  | 2024 | [Badge](#) |
 | Programação Orientada a Objetos | TechLab | 2024 | [Badge](#) |
