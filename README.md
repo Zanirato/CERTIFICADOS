@@ -1,19 +1,29 @@
 # CERTIFICADOS
 
-Devido ao tempo necessário para a emissão dos certificados após a conclusão do curso, foi criado esse repositório para adicionar os certificados quando forem emitidos.
+## 🏅 Certificados & Conquistas
 
+<div align="center">
 
+[![Credly Badges](https://img.shields.io/badge/Badge-Certificados-blue?style=for-the-badge)](#)
 
-### WEB 3.0 (Certificado)
-![Captura de tela 2025-04-28 081627](https://github.com/user-attachments/assets/23e64f2c-ffa1-4936-9bfc-5246b6486b50)
+</div>
 
+### ✨ Certificados Concluídos
 
+| Curso / Certificação | Instituição | Ano | Link / Badge |
+|----------------------|-------------|------|----------------|
+| Economia Circular    | XYZ Academy | 2024 | [Badge](#) |
+| Excel Básico         | ABC Cursos  | 2023 | [Badge](#) |
+| Lógica de Programação| Plataforma  | 2023 | [Badge](#) |
+| Segurança Cibernética| SegurançaPro| 2024 | [Badge](#) |
+| LGPD                 | Portal LGPD | 2023 | [Badge](#) |
+| Power BI             | BI Experts  | 2024 | [Badge](#) |
+| Programação Orientada a Objetos | TechLab | 2024 | [Badge](#) |
 
-### Desvendando o ESG (Certificado)
-![Captura de tela 2025-04-28 081649](https://github.com/user-attachments/assets/59fcd095-e249-4257-9dc9-885f5be30f8c)
+---
 
+### 📌 Como Adicionar Mais Certificados
 
-
-### FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIAL (Certificado)
-![Captura de tela 2025-04-28 081723](https://github.com/user-attachments/assets/5837529e-08d5-4182-96cb-e2ae6d37a205)
-
+Você pode incluir badges visuais personalizados usando serviços como [Shields.io](https://shields.io) — por exemplo:
+```markdown
+![Economia Circular](https://img.shields.io/badge/Economia_Circular-Concluído-brightgreen.svg)
