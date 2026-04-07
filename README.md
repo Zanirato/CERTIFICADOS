@@ -27,6 +27,7 @@ Nesta seção, você encontrará uma breve apresentação dos cursos concluídos
 | Web 3.0              | Senai | 2025 | 
 | ES                   | Senai | 2025 | 
 | Inteligência Artificial| Senai | 2025 |
+| 5G                   | Senai | 2025 |
 
 ---
 
